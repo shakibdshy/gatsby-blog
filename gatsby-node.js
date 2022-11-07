@@ -1,16 +1,10 @@
 exports.createPage = async ({ graphql, actions }) => {
 
     const { data } = await graphql(`
-        query MyQuery {
+        query BlogPost {
             allPostsJson {
                 nodes {
-                    category
-                    content
-                    date
                     slug
-                    id
-                    image
-                    title
                 }
             }
         }
