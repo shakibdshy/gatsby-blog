@@ -1,6 +1,7 @@
 [
     {
         "title": "Being deeply loved by someone gives you strength while loving someone deeply gives you courage",
+        "slug": "being-deeply-loved",
         "category": "Dating",
         "image": "https://tinder-blog.vercel.app/static/3b6f6df4fd67bf8a1387ac1409fbf592/69537/preview.webp",
         "date": "September 09, 2020",
@@ -8,6 +9,7 @@
     },
     {
         "title": "At the center of non-violence stands the principle of love",
+        "slug": "at-the-center",
         "category": "Travel",
         "image": "https://tinder-blog.vercel.app/static/5dc0751e2125d3735639e80c1426e854/54fee/preview.webp",
         "date": "May 23, 2020",
@@ -15,6 +17,7 @@
     },
     {
         "title": "Life without love is like a tree without blossoms or fruit",
+        "slug": "life-without-love",
         "category": "Dating",
         "image": "https://tinder-blog.vercel.app/static/4af359b3ab9991bfe5fd240d4b7059e0/54fee/preview.webp",
         "date": "February 17, 2020",
@@ -22,6 +25,7 @@
     },
     {
         "title": "Love having no geography knows no boundaries",
+        "slug": "love-having-no",
         "category": "Dating",
         "image": "https://tinder-blog.vercel.app/static/6b5d014ec9e2e1e2c6d5f767978c94d5/54fee/preview.webp",
         "date": "March 30, 2019",
@@ -29,6 +33,7 @@
     },
     {
         "title": "If you do not laugh during sex at least once you are having sex with the wrong person",
+        "slug": "If-you-do",
         "category": "Entertainment",
         "image": "https://tinder-blog.vercel.app/static/c2f7b846d60aa27d4c5d98b896041fb4/611b7/preview.webp",
         "date": "September 09, 2020",
