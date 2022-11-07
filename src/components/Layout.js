@@ -5,11 +5,13 @@ import Header from './Header'
 export default function Layout({ children }) {
     return (
         <>
-            <Header />
-            <main>
-                {children}
-            </main>
-            <Footer />
+            <div className='flex flex-col min-h-full'>
+                <Header />
+                <main>
+                    {children}
+                </main>
+                <Footer />
+            </div>
         </>
     )
 }
